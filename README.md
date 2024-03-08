@@ -12,11 +12,7 @@ This project simulates the heat conduction in a three-dimensional object using t
 
 ## Material Properties
 
-Currently, the script supports simulation for two materials:
-- **Water**: A poor conductor of heat.
-- **Copper**: An excellent conductor of heat.
-
-The properties (thermal conductivity, specific heat, and density) for these materials are predefined, but you can easily modify the script to simulate heat conduction in other materials.
+The properties (thermal conductivity, specific heat, and density) can be defined to simulate heat conduction in other materials.
 
 ## Domain Configuration
 
