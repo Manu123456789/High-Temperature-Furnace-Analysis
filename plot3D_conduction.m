@@ -1,4 +1,3 @@
-
 function plot3D(X,Y,Z,Lx,Ly,Lz,dx,dy,dz,T,T_min,T_max,isovalues,iter, t);
 clf
 numisosurf=25; % number of isosurfaces
